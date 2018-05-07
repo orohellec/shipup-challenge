@@ -1,5 +1,4 @@
 # Shipup Frontend Challenge
-==================================
 
 The technical test cosists of a coding test and a few follow-up questions.
 
