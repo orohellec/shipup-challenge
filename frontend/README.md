@@ -1,6 +1,6 @@
 # Shipup Frontend Challenge
 
-The technical test cosists of a coding test and a few follow-up questions.
+The technical test consists of a coding test and a few follow-up questions.
 
 Once complete please send a zip file containing two folders. One with all the code required to run you solution and the other with the answers to the questions as a PDF.
 
